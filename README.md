@@ -4,7 +4,7 @@
 
 This is a simple demo on how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guide/realtime-api/overview) with [Twilio](https://www.twilio.com/docs/voice/tutorials/how-to-respond-to-incoming-phone-calls/node) to create a phone bot that can accept incoming phone calls and use OpenAI to generate responses in real-time.
 
-It was created based on the `websocket-server component` in OpenAI's sample git [repo](https://github.com/openai/openai-realtime-twilio-demo).
+It was created based on the `websocket-server` component in OpenAI's sample git [repo](https://github.com/openai/openai-realtime-twilio-demo).
 
 ## Stack
 
